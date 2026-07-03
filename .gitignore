@@ -1,0 +1,17 @@
+node_modules/
+output/
+temp/
+dist/
+input/
+examples/
+!public/examples/
+*.log
+.env
+.env.local
+.env.*
+!.env.example
+.DS_Store
+.next/
+.vercel/
+.env*.local
+*.tsbuildinfo
